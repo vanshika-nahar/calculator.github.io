@@ -1,0 +1,36 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-PictonBlue{
+    background-color: #06b1e5;
+}
+
+.text-color{
+    color: white;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.center-items{
+    align-items: center;
+}
+
+.text-bg-color-hover:hover{
+    background: #ff8d63;
+}
+
+.text-bg-color-hover-one:hover{
+    background: #cc2b61;
+    color: white;
+}
